@@ -1,4 +1,5 @@
-# 👋 Hey there! I'm Eser
+# 👋 Hey there! I'm Eser and I CREATE.
+### They call me many things: Jack of All Trades, Kiyou Binbou, Swiss Knife... But I'm just a T-Shaped dude. ;)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&duration=3000&pause=1000&color=C9945C&multiline=true&width=435&lines=Visit+my+webpage+for+more%3A;www.esersahiner.com)](https://git.io/typing-svg)
 
