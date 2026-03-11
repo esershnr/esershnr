@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Eser
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=C9945C&multiline=true&width=435&lines=Daha+fazlas%C4%B1+i%C3%A7in+websiteme+g%C3%B6z+at;www.esersahiner.com)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&duration=3000&pause=1000&color=C9945C&multiline=true&width=435&lines=Visit+my+webpage+for+more%3A;www.esersahiner.com)](https://git.io/typing-svg)
 
 <p align="left">
   <a target="_blank" href="https://esersahiner.com"><img src="https://img.shields.io/badge/Website-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
